@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Erin Lock
 
-# Your Github username
+# erinlock13
 
-# List the things you added for points
+- 
